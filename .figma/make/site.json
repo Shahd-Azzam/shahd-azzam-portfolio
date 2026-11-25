@@ -1,0 +1,11 @@
+{
+  "title": "Shahd Azzam | English-to-Arabic Translator",
+  "description": "A polished portfolio for English-to-Arabic translator Shahd Azzam, showcasing services, sample translations, process, and contact options for prospective clients.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
